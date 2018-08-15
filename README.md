@@ -1,2 +1,2 @@
 # waffle-demo
-This is a Repo to demonstrate Waffle.io.
+This is a Repository to demonstrate Waffle.io.
